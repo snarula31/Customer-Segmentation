@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: Customer-Segmentation
+Version: 1.0.0
+Author: Shivansh Narula
+Author-email: shivanshnarula@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: matplotlib
+Requires-Dist: scikit-learn
+Requires-Dist: setuptools
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
