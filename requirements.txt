@@ -11,4 +11,5 @@ uvicorn[standard]
 pydantic
 python-multipart
 flask
+openpyxl
 # -e .
